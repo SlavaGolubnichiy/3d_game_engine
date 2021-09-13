@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="IndexBuffer" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAEAABAAAAAAAAAAAEAAAAAgA=</HashCode>
+      <FileName>src\renderer\basic\IndexBuffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shader" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAAABAAAAAAAIABAAAAAAAAAAAAAAABAAAAAIAAgA=</HashCode>
+      <FileName>src\renderer\basic\Shader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShaderProgram" Collapsed="true">
+    <Position X="6.75" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAFCACCAAIAAAAAAAAAQAQBAAAAAAAAAAAABAAIAQgA=</HashCode>
+      <FileName>src\renderer\basic\ShaderProgram.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Texture2D" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAAggQAQAUAAAAUAQAAEAAAEoAAAAAAABEAkAIIAAiA=</HashCode>
+      <FileName>src\renderer\basic\Texture2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Texture2DData" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AACgQQAEAICAAAEIAAACAAAAgQKAMQAASEAACIAAAAA=</HashCode>
+      <FileName>src\renderer\basic\Texture2DData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VertexArray" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAEAAAgA=</HashCode>
+      <FileName>src\renderer\basic\VertexArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VertexBuffer" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIEAAAAEgA=</HashCode>
+      <FileName>src\renderer\basic\VertexBuffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttribsInfo">
+    <Position X="12.75" Y="11.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAQABASAAAAAAYAFAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>src\renderer\Mesh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mesh">
+    <Position X="12.75" Y="8" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAQIAAAEEAAgAAAAAAAAAAAAAQAAAAAQABAAAAAAA=</HashCode>
+      <FileName>src\renderer\Mesh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenglObj">
+    <Position X="0.5" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAECAKAAAKgAAkQAAAAwAAAAACAYAgggICIBIiEAQgA=</HashCode>
+      <FileName>src\renderer\OpenglObj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenglObjColored">
+    <Position X="3.5" Y="8" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAgAAAAAAAAAAAAAAAACAAAgAEAAAAAA=</HashCode>
+      <FileName>src\renderer\OpenglObj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenglObjTextured">
+    <Position X="3.5" Y="13.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAQAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\renderer\OpenglObj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenglObjTexturedSpecmapped">
+    <Position X="3.5" Y="10.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAABAAAAAgAgQAAAAAAAAAAAA=</HashCode>
+      <FileName>src\renderer\OpenglObj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenglObj3DData">
+    <Position X="0.5" Y="16" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAQAAAAAQAAAAAAAICBgggAAAQAAAAgQAgAAAAAAA=</HashCode>
+      <FileName>src\renderer\OpenglObj3DData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenglObj3DDataGenerator">
+    <Position X="6.5" Y="8" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AIBAQXAIEAAEjCAREEhEAAAUBQACAEQgQAhgAVAAIgE=</HashCode>
+      <FileName>src\renderer\OpenglObj3DDataGenerator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Vertex" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAIAgAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>src\renderer\basic\VertexBuffer.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
